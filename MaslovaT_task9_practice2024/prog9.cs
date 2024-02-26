@@ -36,7 +36,7 @@ namespace MaslovaT_task9_practice2024
             Write(mainPiecePos + ' ', ConsoleColor.Green);
 
             Write(otherPieceName + ' ', ConsoleColor.Blue);
-            Write(mainPiecePos + ' ', ConsoleColor.Blue);
+            Write(otherPiecePos + ' ', ConsoleColor.Blue);
 
             Write(destinationCell + ' ', ConsoleColor.Cyan);
             Writeln(" ");
